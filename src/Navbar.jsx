@@ -5,7 +5,7 @@ import { CiHeart } from "react-icons/ci";
 
 const Navbar = () => {
   return (
-    <div>
+    <div className="bg-primary text-white">
       <div className="navbar w-10/12 mx-auto shadow-sm">
         <div className="navbar-start">
           <div className="dropdown">

@@ -5,7 +5,7 @@ const Banner = () => {
   return (
     <div>
       <div className="gap-y-4 bg-primary h-[550px] text-white">
-        <h1 className="pt-3 text-5xl font-bold text-center">
+        <h1 className="pt-3 text-3xl md:text-5xl font-bold text-center">
           Upgrade Your Tech Accessorize with <br /> Gadget Heaven Accessories
         </h1>
         <p className="text-center mt-6">

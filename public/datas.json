@@ -1,0 +1,173 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/IPhone_15_pro_max.jpg",
+      "category": "Smartphones",
+      "price": 1299,
+      "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+        "LiDAR Scanner",
+        "Up to 2TB storage"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Dell XPS 15",
+      "product_image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9510/media-gallery/xs9510t_cnb_05000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+      "category": "Laptops",
+      "price": 1899,
+      "description": "Powerful performance with a stunning 4K display and Intel Core i9 processor.",
+      "specification": [
+        "15.6-inch 4K OLED display",
+        "Intel Core i9 13th Gen",
+        "32GB RAM, 1TB SSD",
+        "NVIDIA GeForce RTX 4060",
+        "Windows 11 Pro"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://sonycentercy.com/1693672-medium_default/sony-wh1000xm5-wireless-bluetooth-noise-cancelling-headphones-smoky-pink.jpg",
+      "category": "Headphones",
+      "price": 399,
+      "description": "Industry-leading noise cancellation with up to 30 hours of battery life.",
+      "specification": [
+        "Active Noise Cancellation (ANC)",
+        "40mm drivers for high-resolution audio",
+        "Touch controls & voice assistant support",
+        "30-hour battery life with quick charge",
+        "Comfortable over-ear design"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Apple AirPods Pro (2nd Gen)",
+      "product_image": "https://assets.hardwarezone.com/img/2023/09/apple-airpods-pro-usbc-intro.jpg",
+      "category": "Earphones",
+      "price": 249,
+      "description": "Immersive sound experience with active noise cancellation and adaptive transparency.",
+      "specification": [
+        "Active Noise Cancellation (ANC)",
+        "Adaptive Transparency Mode",
+        "Spatial Audio with dynamic head tracking",
+        "MagSafe Charging Case",
+        "Up to 6 hours of listening time (30 hours with case)"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Samsung Galaxy S24 Ultra",
+      "product_image": "https://www.ictspecialist.nl/media/catalog/product/cache/4f7fd853db87584bc2e6d69dcac4faa9/1/3/134685_1_c1223933ae5377135bce319bd6dfba7f.webp",
+      "category": "Smartphones",
+      "price": 1199,
+      "description": "Capture epic shots and experience blazing performance with Galaxy S24 Ultra.",
+      "specification": [
+        "6.8-inch QHD+ AMOLED 120Hz display",
+        "Snapdragon 8 Gen 3",
+        "200MP main camera system",
+        "S Pen support",
+        "5000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P006",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://www.hponline.co.za/cdn/shop/files/laptops-a5ks4ea-42234396278997_900x.png?v=1726241686",
+      "category": "Laptops",
+      "price": 1599,
+      "description": "A premium 2-in-1 laptop with stunning visuals and versatile performance.",
+      "specification": [
+        "13.5-inch 3K2K OLED touchscreen",
+        "Intel Core i7 13th Gen",
+        "16GB RAM, 1TB SSD",
+        "360° hinge design",
+        "Windows 11 Home"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P007",
+      "product_title": "JBL Tune 230NC TWS",
+      "product_image": "https://diamu.com.bd/wp-content/uploads/2022/11/JBL-Vibe-200TWS-True-Wireless-Earbuds.jpg",
+      "category": "Earphones",
+      "price": 99,
+      "description": "True wireless earbuds with powerful bass and active noise canceling.",
+      "specification": [
+        "Active Noise Cancellation (ANC)",
+        "40-hour battery life (with case)",
+        "IPX4 water resistance",
+        "4-mic technology for clear calls",
+        "Bluetooth 5.2"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Lenovo Legion 5 Pro",
+      "product_image": "https://store.alnabaa.com/cdn/shop/files/LenovoLegionPro516IRX8_alnabaa.com_f972e871-a3c1-4d99-bd56-fc965f6467fa_900x.jpg?v=1686808840",
+      "category": "Laptops",
+      "price": 1699,
+      "description": "High-performance gaming laptop with immersive visuals and fast refresh rates.",
+      "specification": [
+        "16-inch WQXGA 165Hz display",
+        "AMD Ryzen 9 7945HX",
+        "32GB RAM, 1TB SSD",
+        "NVIDIA GeForce RTX 4070",
+        "RGB backlit keyboard"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Bose QuietComfort Ultra Headphones",
+      "product_image": "https://c1.neweggimages.com/productimage/nb1280/26-627-143-01.jpg",
+      "category": "Headphones",
+      "price": 429,
+      "description": "Premium headphones with world-class noise cancellation and immersive audio.",
+      "specification": [
+        "Adjustable Noise Cancellation",
+        "Immersive Spatial Audio",
+        "Up to 24 hours battery life",
+        "Touch controls and voice assistants",
+        "USB-C fast charging"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P010",
+      "product_title": "OnePlus Buds Pro 2",
+      "product_image": "https://www.dakhm.com/wp-content/uploads/2023/05/OnePlus-Buds-Pro-Radiant-Silver-1.jpg",
+      "category": "Earphones",
+      "price": 179,
+      "description": "Next-gen earbuds with dynamic audio, spatial sound and dual drivers.",
+      "specification": [
+        "11mm + 6mm dual drivers",
+        "Smart Adaptive Noise Cancellation",
+        "Spatial Audio support",
+        "39 hours total battery life",
+        "Fast Pair and wireless charging"
+      ],
+      "availability": true,
+      "rating": 4.6
+    }
+  ]
+  

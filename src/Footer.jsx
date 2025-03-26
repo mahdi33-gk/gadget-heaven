@@ -4,6 +4,10 @@ const Footer = () => {
   return (
     <div className="pt-36  bg-base-300">
       <footer className="footer  w-10/12 mx-auto sm:footer-horizontal text-base-content p-10">
+      <div className="flex flex-col">
+      <h1 className="text-4xl text-center font-bold">Gadget Heaven</h1>
+      <p>Leading the way in cutting-edge technology and innovation.</p>
+      </div>
         <nav>
           <h6 className="footer-title">Services</h6>
           <a className="link link-hover">Branding</a>

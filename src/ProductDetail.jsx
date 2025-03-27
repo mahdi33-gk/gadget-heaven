@@ -1,12 +1,16 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import { useLoaderData, useParams } from 'react-router-dom';
 
 const ProductDetail = () => {
     const {productId} = useParams();
-    console.log(productId)
+    const data = useLoaderData()
+    
+    console.log(id)
     return (
         <div>
-            <h1>Here is book detail section.</h1>
+            <h1>Here is ProductId: {productId}</h1>
+            
+            
         </div>
     );
 };

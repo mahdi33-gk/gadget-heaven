@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import Err from './Err.jsx'
 import Dashboard from './Dashboard.jsx'
+import ProductDetail from './ProductDetail.jsx'
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
       {
         path: '/',
         element: <Home></Home>
+      },
+      {
+        path: '/product/:productId',
+        element: <ProductDetail></ProductDetail>
       },
       {
         path: 'dashboard',

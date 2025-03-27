@@ -24,7 +24,7 @@ const ProductDetail = () => {
   } = product;
   return (
     <div>
-      <div className="bg-primary h-96 ">
+      <div className="bg-primary h-96 mb-60">
         <div className="py-10">
           <h1 className="text-4xl text-center font-bold text-white">
             Product Details
@@ -35,7 +35,7 @@ const ProductDetail = () => {
             it all!
           </p>
         </div>
-        <div className="card lg:card-side bg-base-100 shadow-sm w-10/12 mx-auto">
+        <div className="card lg:card-side bg-base-100  shadow-sm w-10/12 mx-auto">
           <figure>
             <img src={product_image} />
           </figure>

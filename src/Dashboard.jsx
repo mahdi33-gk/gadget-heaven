@@ -4,15 +4,17 @@ import "react-tabs/style/react-tabs.css";
 
 const Dashboard = () => {
   return (
-    <div className="w-10/12 mx-auto">
-      <div>
-        <div>
-          <h1>Dashboard</h1>
-          <p>
-            Explore the latest gadgets that will take your experience to the
-            next level. From smart devices to the coolest accessories, we have
-            it all!
-          </p>
+    <div>
+      <div className="bg-primary ">
+        <div className="w-10/12 mx-auto">
+          <div className=" text-white">
+            <h1 className="text-3xl font-bold text-center pt-9">Dashboard</h1>
+            <p className="text-center pt-6 pb-6">
+              Explore the latest gadgets that will take your experience to the
+              next level. From smart devices to <br /> the coolest accessories,
+              we have it all!
+            </p>
+          </div>
         </div>
         <Tabs>
           <TabList>

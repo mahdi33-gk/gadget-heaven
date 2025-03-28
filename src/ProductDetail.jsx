@@ -37,7 +37,7 @@ const ProductDetail = () => {
         </div>
         <div className="card lg:card-side bg-base-100  shadow-sm w-10/12 mx-auto">
           <figure className="object-cover h-[500px] w-auto">
-            <img className="px-4 py-2" src={product_image} />
+            <img className="px-4 py-4 rounded-[28px]" src={product_image} />
           </figure>
           <div className="card-body">
             <h2 className="card-title text-3xl font-bold">{product_title}</h2>

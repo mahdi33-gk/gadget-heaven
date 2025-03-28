@@ -15,8 +15,7 @@ const Dashboard = () => {
               we have it all!
             </p>
           </div>
-        </div>
-        <Tabs>
+          <Tabs>
           <TabList>
             <Tab>Title 1</Tab>
             <Tab>Title 2</Tab>
@@ -29,6 +28,7 @@ const Dashboard = () => {
             <h2>Any content 2</h2>
           </TabPanel>
         </Tabs>
+        </div>
       </div>
     </div>
   );

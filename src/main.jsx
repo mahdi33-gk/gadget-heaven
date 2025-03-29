@@ -11,6 +11,7 @@ import {
 import Err from './Err.jsx'
 import Dashboard from './Dashboard.jsx'
 import ProductDetail from './ProductDetail.jsx'
+import Statistics from './Statistics.jsx'
 
 const router = createBrowserRouter([
   {
@@ -30,6 +31,10 @@ const router = createBrowserRouter([
       {
         path: 'dashboard',
         element: <Dashboard></Dashboard>
+      },
+      {
+        path:'/statisitcs',
+        element: <Statistics></Statistics>
       }
     ]
   },

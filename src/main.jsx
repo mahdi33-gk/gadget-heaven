@@ -33,7 +33,7 @@ const router = createBrowserRouter([
         element: <Dashboard></Dashboard>
       },
       {
-        path:'/statisitcs',
+        path:'statisitcs',
         element: <Statistics></Statistics>
       }
     ]

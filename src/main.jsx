@@ -24,6 +24,10 @@ const router = createBrowserRouter([
         element: <Home></Home>
       },
       {
+        path: 'statics',
+        element: <Statistics></Statistics>
+      },
+      {
         path: '/product/:productId',
         element: <ProductDetail></ProductDetail>,
         loader: ()=> fetch('/datas.json')
@@ -32,10 +36,7 @@ const router = createBrowserRouter([
         path: 'dashboard',
         element: <Dashboard></Dashboard>
       },
-      {
-        path:'statisitcs',
-        element: <Statistics></Statistics>
-      }
+      
     ]
   },
 ]);

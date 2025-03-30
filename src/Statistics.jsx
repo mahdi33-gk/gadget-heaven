@@ -11,10 +11,6 @@ const Statistics = () => {
       </title>
     </Helmet>
 
-
-
-
-    
    </div>
   );
 };

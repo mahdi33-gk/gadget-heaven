@@ -12,6 +12,7 @@
   "dependencies": {
     "@mui/styled-engine-sc": "^7.0.1",
     "@mui/x-charts": "^7.28.0",
+    "google-map-react": "^2.2.1",
     "localforage": "^1.10.0",
     "match-sorter": "^8.0.0",
     "react": "^19.0.0",

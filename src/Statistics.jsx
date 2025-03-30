@@ -10,6 +10,11 @@ const Statistics = () => {
         Statistics || Gadget
       </title>
     </Helmet>
+
+
+
+
+    
    </div>
   );
 };

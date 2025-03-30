@@ -18,6 +18,7 @@ const Dashboard = () => {
               next level. From smart devices to <br /> the coolest accessories,
               we have it all!
             </p>
+            
           </div>
           <Tabs>
           <TabList>

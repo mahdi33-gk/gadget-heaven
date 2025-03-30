@@ -1,10 +1,14 @@
 import React from "react";
+import { Helmet } from "react-helmet-async";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 
 const Dashboard = () => {
   return (
     <div>
+      <Helmet>
+        <title>Dashboard |Gadget</title>
+      </Helmet>
       <div className="bg-primary ">
         <div className="w-10/12 mx-auto">
           <div className=" text-white">

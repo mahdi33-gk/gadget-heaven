@@ -25,7 +25,6 @@ Welcome to **Gadget Heaven**, a modern and sleek gadget e-commerce platform buil
 
 ---
 
-![UI Preview](your-ui-image-link-here)
 
 <br/>
 <p>Home section</p>

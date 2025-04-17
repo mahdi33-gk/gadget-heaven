@@ -2,6 +2,8 @@
 
 Welcome to **Gadget Heaven**, a modern and sleek gadget e-commerce platform built with:
 
+> 📦 This project works with a **local API** (JSON/server or similar) to manage product data.
+
 - ⚛️ React JS  
 - 🌐 React Router  
 - 🎨 Tailwind CSS  
@@ -11,17 +13,19 @@ Welcome to **Gadget Heaven**, a modern and sleek gadget e-commerce platform buil
 
 - 🛒 Browse and purchase latest gadgets
 - 🧩 Category-based product filtering
+- ⚡ Fast routing with React Router
 - 📱 Not responsive yet but ill do it
 - 💚 Built with modern frontend tech stack
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-| Technology     | Purpose                           |
-|----------------|------------------------------------|
-| React JS       | Frontend Framework                |
-| React Router   | Client-Side Routing               |
-| Tailwind CSS   | Utility-first Styling             |
-| DaisyUI        | Tailwind-based UI Components      |
+| Technology     | Usage                            |
+|----------------|----------------------------------|
+| React JS       | Core UI and component logic      |
+| React Router   | Page navigation and routing      |
+| Tailwind CSS   | Utility-first styling framework  |
+| DaisyUI        | Prebuilt component styling       |
+| Local API      | Handles product data             |
 
 ---
 
@@ -36,9 +40,17 @@ Welcome to **Gadget Heaven**, a modern and sleek gadget e-commerce platform buil
 <p>Cart section</p>
 <img src="./ui/Cart.png" alt="" />
 <br />
+
+
 <p>WishList section</p>
 <img src="./ui/WishList.png" alt="" />
 <br />
 **PopUp section**
 <img src="./ui/Successful-Popup.png" alt="" />
 <br />
+
+## 🧪 Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mahdi33-gk/gadget-heaven.git

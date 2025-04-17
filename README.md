@@ -1,5 +1,32 @@
-# Gadget Heaven
-<p>You can buy ur staff from here.</p>
+# ⚙️ Gadget Heaven – Your Ultimate Gadget Shop (Not completed yet)
+
+Welcome to **Gadget Heaven**, a modern and sleek gadget e-commerce platform built with:
+
+- ⚛️ React JS  
+- 🌐 React Router  
+- 🎨 Tailwind CSS  
+- 💠 DaisyUI  
+
+## 🔥 Features
+
+- 🛒 Browse and purchase latest gadgets
+- 🧩 Category-based product filtering
+- 📱 Not responsive yet but ill do it
+- 💚 Built with modern frontend tech stack
+
+## 🚀 Tech Stack
+
+| Technology     | Purpose                           |
+|----------------|------------------------------------|
+| React JS       | Frontend Framework                |
+| React Router   | Client-Side Routing               |
+| Tailwind CSS   | Utility-first Styling             |
+| DaisyUI        | Tailwind-based UI Components      |
+
+---
+
+![UI Preview](your-ui-image-link-here)
+
 <br/>
 <p>Home section</p>
 <img src="./ui/Gadget Heaven.png" alt="" />
